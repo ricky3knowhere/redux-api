@@ -3,70 +3,70 @@
     {
       "id": 1,
       "name": "Felix",
-      "email ": "fringilla.Donec@euismod.net",
+      "email": "fringilla.Donec@euismod.net",
       "phone": "028-178-4853",
       "address": "Ap #440-3470 Orci Avenue"
     },
     {
       "id": 2,
       "name": "Jakeem",
-      "email ": "sed.sem@tinciduntvehicula.net",
+      "email": "sed.sem@tinciduntvehicula.net",
       "phone": "085-046-3663",
       "address": "758-5291 Vitae, Av."
     },
     {
       "id": 3,
       "name": "Ali",
-      "email ": "Sed.malesuada@scelerisqueneque.net",
+      "email": "Sed.malesuada@scelerisqueneque.net",
       "phone": "008-369-9462",
       "address": "Ap #468-6342 Metus Avenue"
     },
     {
       "id": 4,
       "name": "Ezekiel",
-      "email ": "tincidunt.neque@Donec.edu",
+      "email": "tincidunt.neque@Donec.edu",
       "phone": "026-493-9936",
       "address": "6679 Feugiat. Street"
     },
     {
       "id": 5,
       "name": "Reuben",
-      "email ": "enim.gravida.sit@et.org",
+      "email": "enim.gravida.sit@et.org",
       "phone": "025-388-3575",
       "address": "2837 Sagittis Road"
     },
     {
       "id": 6,
       "name": "Jerome",
-      "email ": "sit.amet@posuerecubilia.com",
+      "email": "sit.amet@posuerecubilia.com",
       "phone": "086-615-8526",
       "address": "Ap #691-5543 Donec St."
     },
     {
       "id": 7,
       "name": "Silas",
-      "email ": "velit.Pellentesque.ultricies@tempus.co.uk",
+      "email": "velit.Pellentesque.ultricies@tempus.co.uk",
       "phone": "089-291-3909",
       "address": "4947 Fringilla Avenue"
     },
     {
       "id": 8,
       "name": "Alfonso",
-      "email ": "Morbi.quis@aliquetmolestietellus.co.uk",
+      "email": "Morbi.quis@aliquetmolestietellus.co.uk",
       "phone": "011-501-4024",
       "address": "3452 Vulputate, Rd."
     },
     {
       "id": 9,
       "name": "Kato",
-      "email ": "elementum@Maecenasmalesuada.edu",
+      "email": "elementum@Maecenasmalesuada.edu",
       "phone": "047-683-4095",
       "address": "140-3666 Aliquet. Ave"
     },
     {
       "id": 10,
       "name": "Todd",
-      "email ": "Phasellus.ornare.Fusce@non.net",
+      "email": "Phasellus.ornare.Fusce@non.net",
       "phone": "055-061-2037",
       "address": "3818 Condimentum. Road"
     }
